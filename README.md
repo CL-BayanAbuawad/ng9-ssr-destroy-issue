@@ -1,1 +1,0 @@
-# ng9-ssr-destroy-issue
